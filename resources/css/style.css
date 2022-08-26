@@ -27,10 +27,10 @@ p {
     color: gray;
 }
 
-a {
-    font-size: 1rem;
+.cta {
     color: aquamarine;
-}
+    font-size: 16px;
+  }
 
 img {
     margin-top: 1%;
