@@ -1,0 +1,33 @@
+/* Reset to basic and Universal styles */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: seashell;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 0 auto;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 3.125rem;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 2.625rem;
+}
+
+p {
+    font-size: 1.3125rem;
+    color: gray;
+}
+
+a {
+    font-size: 1rem;
+    color: aquamarine;
+}
+
